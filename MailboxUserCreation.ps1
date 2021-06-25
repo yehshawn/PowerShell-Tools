@@ -1,3 +1,5 @@
+#Creates Exchange Mailbox account
+
 [CmdletBinding()]
 param(
 	[Parameter(Position=0, Mandatory=$true)]
